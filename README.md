@@ -1,3 +1,7 @@
-Hiii, as of wed 13th august. I have (possibly permenantly) moved to [here](https://git.roxcelic.love/roxcelic) because github has become too *ai* for my tastes, all this is, is a forgejo instance I host and have customised a little bit.
+> roxy, mushy, smush
 
-I appologise for any inconvenience <3
+- 17 year old game developer
+
+- she/her
+
+  If youd like to see some of my work check my pinned or my [website](https://roxcelic.love)
