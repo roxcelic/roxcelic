@@ -1,7 +1,8 @@
-> roxy, mushy, smush
+> roxy, mushy, smush, angel
 
 - 18 year old game developer
+  - she/her
 
-- she/her
+---
 
-  If youd like to see some of my work check my pinned or my [MY WEBSITE DIED NO]
+![A picture my girlfriend took of my boobs but in a tastefull way](./assets/myBoobs.png "Boobs")
